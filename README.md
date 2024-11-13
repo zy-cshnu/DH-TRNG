@@ -1,0 +1,1 @@
+Yuan Zhang, Kuncai Zhong, and Jiliang Zhang. 2024. DH-TRNG: A Dynamic Hybrid TRNG with Ultra-High Throughput and Area-Energy Efficiency. In Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC '24). Association for Computing Machinery, New York, NY, USA, Article 95, 1–6. https://doi.org/10.1145/3649329.3656236
